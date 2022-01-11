@@ -61,6 +61,10 @@ Start the server:
     npm start
 ```
 
+The following GIF displays the app's setup:
+
+![setup](./images/setup.gif)
+
 ## Contributing
 ---
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -73,6 +77,21 @@ To review the code, please go to the [repository](https://github.com/sistaniabon
 ## Mock Up
 ---
 Please see below links to see demo videos that show the app's functionality:
+
+- GET All Users, GET a User, UPDATE a User, DELETE a User, POST a User
+https://watch.screencastify.com/v/xbLO6sLl890Z35V6P5cz
+
+- GET All Thoughts, GET a Thought, UPDATE a Thought, DELETE a Thought, POST a Thought
+https://watch.screencastify.com/v/PCvQ4lFIeLpBQwbcINRx
+
+- POST a friend to a user & DELETE a friend from the user's friends list
+https://watch.screencastify.com/v/viADyiu9ai6cJIK3Tot1
+
+- POST a reaction to a thought & DELETE a reaction from the thought's reaction list
+https://watch.screencastify.com/v/TNStCtekzbOt6XbgqT5L
+
+- Application deletes a user's associated thoughts when the user is deleted
+https://watch.screencastify.com/v/2ANSbxlCgLJMTj2RDRPa
 
 
 ## Questions
